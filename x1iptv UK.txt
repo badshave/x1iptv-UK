@@ -1,0 +1,670 @@
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US - SMITHSONIAN CHANNEL | HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/smithsonian-.png" group-title="AM | USA | DOCUMENTARY",US - SMITHSONIAN CHANNEL | HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/115597
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US - SMITHSONIAN EAST | HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/smithsonian-.png" group-title="AM | USA | ENTERTAINMENT",US - SMITHSONIAN EAST | HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/71421#EXTINF:-1 tvg-id="" tvg-name="##### UK - GENERAL #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - GENERAL #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69422
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK - BBC1 FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC1 FHD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17305
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK - BBC2 FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC2 FHD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17318
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="UK - BBC3 ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC3 ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17321
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK - BBC4 ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC4 ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17331
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK - BBC 4/CBEEBIES" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC 4/CBEEBIES
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17282
+#EXTINF:-1 tvg-id="bbcscotland.uk" tvg-name="UK - BBC SCOTLAND" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC SCOTLAND
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17292
+#EXTINF:-1 tvg-id="bbconescotlandhd.uk" tvg-name="UK - BBC ONE SCOTTLAND HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE SCOTTLAND HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17404
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK - ITV 1 HD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV 1 HD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17295
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK - ITV 2 HD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV 2 HD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17397
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK - ITV 3 HD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV 3 HD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17396
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK - ITV 4 HD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV 4 HD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17395
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK - ITV BE HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV BE HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17394
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK - CHANNEL 4 FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="EU | UK",UK - CHANNEL 4 FHD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17389
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK - CHANNEL 5 FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL5.png" group-title="EU | UK",UK - CHANNEL 5 FHD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17388
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK - E4 HD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="EU | UK",UK - E4 HD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17373
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK - CBBC HD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CBBC-1.png" group-title="EU | UK",UK - CBBC HD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17399
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK - 4 SEVEN" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="EU | UK",UK - 4 SEVEN
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17296
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK - ALIBI HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ALIBIHD.png" group-title="EU | UK",UK - ALIBI HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17385
+#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK - BBC PARLIAMENT" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC PARLIAMENT
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17335
+#EXTINF:-1 tvg-id="citv.uk" tvg-name="UK - CITV" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CITV.png" group-title="EU | UK",UK - CITV
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17339
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - NEWS #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - NEWS #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69423
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK - BBC NEWS HD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC NEWS HD ?
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17400
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="UK - BBC WORLD NEWS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC WORLD NEWS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17347
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK - BLOOMBERG HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BLOOMBERG-1.png" group-title="EU | UK",UK - BLOOMBERG HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17698
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK - CNBC" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CNBC.png" group-title="EU | UK",UK - CNBC
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17693
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK - CNN HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CNN.png" group-title="EU | UK",UK - CNN HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17390
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK - EURO NEWS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/EURONEWS-1.png" group-title="EU | UK",UK - EURO NEWS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17694
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK - FOX NEWS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/FOX.png" group-title="EU | UK",UK - FOX NEWS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17356
+#EXTINF:-1 tvg-id="france24.uk" tvg-name="UK - FRANCE 24" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/FRANCE24.png" group-title="EU | UK",UK - FRANCE 24
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17361
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK - SKY NEWS HD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/SKY-NEWS.png" group-title="EU | UK",UK - SKY NEWS HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/41680
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK - AL JAZEERA EN" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ALJAZEERA.png" group-title="EU | UK",UK - AL JAZEERA EN
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17695
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - DOCUMENTARY #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - DOCUMENTARY #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70072
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK - SKY DOCUMENTARIES FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/Sky_Documentaries.png" group-title="EU | UK",UK - SKY DOCUMENTARIES FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/277146
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK - DISCOVERY HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DISCOVERYCHANNEL-1.png" group-title="EU | UK",UK - DISCOVERY HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17314
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK - NAT GEO HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/NATGEOGRAPHIC-1.png" group-title="EU | UK",UK - NAT GEO HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17309
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK - NAT GEO WILD FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/NATGEOWILD-1.png" group-title="EU | UK",UK - NAT GEO WILD FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17310
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK - ANIMAL PLANET HD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/Animal_Planet.png" group-title="EU | UK",UK - ANIMAL PLANET HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17315
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK - CRIME&INVESTIGATION" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="EU | UK",UK - CRIME&INVESTIGATION
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70073
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK - HISTORY HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORYHD-1.png" group-title="EU | UK",UK - HISTORY HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17691
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK - HISTORY 2 HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORY-2-1.png" group-title="EU | UK",UK - HISTORY 2 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17311
+#EXTINF:-1 tvg-id="Paramount.uk" tvg-name="UK - PARAMOUNT NETWORK" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PARAMOUNTHD.png" group-title="EU | UK",UK - PARAMOUNT NETWORK
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70075
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK - SYFY HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/syfy-hd.png" group-title="EU | UK",UK - SYFY HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17362
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK - SMITHSONIAN CHANNEL" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SMITHSONIANCHANNEL-1.png" group-title="EU | UK",UK - SMITHSONIAN CHANNEL
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70076
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY NATURE HD" tvg-logo="http://logo.panel.cx/logo/UK/SKY-Nature.png" group-title="EU | UK",UK - SKY NATURE HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/193920
+#EXTINF:-1 tvg-id="vh1.uk" tvg-name="UK - VH1" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/1200px-VH1_logonew.png" group-title="EU | UK",UK - VH1
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69533
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK - DISCOVERY HISTORY" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DISCOVERYCHANNEL-1.png" group-title="EU | UK",UK - DISCOVERY HISTORY
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70077
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK - DISCOVERY SCIENCE" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DISCOVERYCHANNEL-1.png" group-title="EU | UK",UK - DISCOVERY SCIENCE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70079
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK - DISCOVERY TURBO" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/Discovery_Turbo-2.png" group-title="EU | UK",UK - DISCOVERY TURBO
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70082
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK - TRAVEL CHANNEL" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/THETRAVELCHANNEL.png" group-title="EU | UK",UK - TRAVEL CHANNEL
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70083
+#EXTINF:-1 tvg-id="horseandcountry.uk" tvg-name="UK - HORSE AND COUNTRY" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/HORSE-AND-COUNTRY-1.png" group-title="EU | UK",UK - HORSE AND COUNTRY
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70085
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK - INVESTIGATION DISCOVERY (ID)" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/INVESTIGATIONDISCOVERY-1.png" group-title="EU | UK",UK - INVESTIGATION DISCOVERY (ID)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17312
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - COOKING #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - COOKING #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69424
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="UK - FOOD NETWORK" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/FOODNETWORK.png" group-title="EU | UK",UK - FOOD NETWORK
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17699
+#EXTINF:-1 tvg-id="home.uk" tvg-name="UK - HGTV" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/HOME.png" group-title="EU | UK",UK - HGTV
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69054
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - KIDS #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - KIDS #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17337
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK - CARTOON NETWORK HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CARTOONNETWORK-1.png" group-title="EU | UK",UK - CARTOON NETWORK HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17323
+#EXTINF:-1 tvg-id="disneychannel.uk" tvg-name="UK - DISNEY CHANNEL HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DISNEYCHANNEL.png" group-title="EU | UK",UK - DISNEY CHANNEL HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17325
+#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-name="UK - DISNEY JUNIOR HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DISNEYJUNIOR.png" group-title="EU | UK",UK - DISNEY JUNIOR HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17697
+#EXTINF:-1 tvg-id="disneyxd.uk" tvg-name="UK - DISNEY XD HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DISNEYXD.png" group-title="EU | UK",UK - DISNEY XD HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17696
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK - CBEEBIES" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CBEEBIES.png" group-title="EU | UK",UK - CBEEBIES
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69482
+#EXTINF:-1 tvg-id="" tvg-name="UK - NICK HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NICK.png" group-title="EU | UK",UK - NICK HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17332
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="UK - NICK JR PEPPA" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NICKJR.png" group-title="EU | UK",UK - NICK JR PEPPA
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17330
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK - NICK JUNIOR" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NICKJR.png" group-title="EU | UK",UK - NICK JUNIOR
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17329
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="UK - NICK TOONS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NICK.png" group-title="EU | UK",UK - NICK TOONS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17328
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK - NICKELODEON EUROPE" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NICK.png" group-title="EU | UK",UK - NICKELODEON EUROPE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17327
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK - BABY TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BABYTV.png" group-title="EU | UK",UK - BABY TV
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17336
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK - BOOMERANG" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BOOMERANG-1.png" group-title="EU | UK",UK - BOOMERANG
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17334
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK - CARTOONITO (NOT 24)" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CARTOONITO.png" group-title="EU | UK",UK - CARTOONITO (NOT 24)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69483
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK - TINY POP" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/TINYPOP-1.png" group-title="EU | UK",UK - TINY POP
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17319
+#EXTINF:-1 tvg-id="tinypopplus1.uk" tvg-name="UK - TINY POP+1" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/TINYPOP-1.png" group-title="EU | UK",UK - TINY POP+1
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69484
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - ENTERTAINMENT #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - ENTERTAINMENT #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17387
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK - EDEN HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/EDEN.png" group-title="EU | UK",UK - EDEN HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17372
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK - GOLD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/GOLD.png" group-title="EU | UK",UK - GOLD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69486
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK - DAVE HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DAVE.png" group-title="EU | UK",UK - DAVE HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17374
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK - E! ENTERTAINMENT" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/E!(1).png" group-title="EU | UK",UK - E! ENTERTAINMENT
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69487
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK - MORE 4 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/MORE4-1.png" group-title="EU | UK",UK - MORE 4 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17371
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK - QUEST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/QUEST.png" group-title="EU | UK",UK - QUEST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69488
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK - SKY MAX FHD" tvg-logo="http://logo.panel.cx/logo/UK/Sky_Max.png" group-title="EU | UK",UK - SKY MAX FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280024
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK - SKY ATLANTIC HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY ATLANTIC HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17338
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK - SKY ARTS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY ARTS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69491
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK - SKY WITNESS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY WITNESS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69492
+#EXTINF:-1 tvg-id="sky1.uk" tvg-name="UK - SKY SHOWCASE HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY SHOWCASE HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17352
+#EXTINF:-1 tvg-id="sky2.uk" tvg-name="UK - SKY TWO" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY TWO
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69493
+#EXTINF:-1 tvg-id="stv.uk" tvg-name="UK - STV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/STV.png" group-title="EU | UK",UK - STV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17370
+#EXTINF:-1 tvg-id="" tvg-name="UK - SHOWCASE" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SHOWCASE-1.png" group-title="EU | UK",UK - SHOWCASE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70088
+#EXTINF:-1 tvg-id="" tvg-name="UK - UTV" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UTV.png" group-title="EU | UK",UK - UTV
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69489
+#EXTINF:-1 tvg-id="Universal.uk" tvg-name="UK - UNIVERSAL HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UNIVERSAL.png" group-title="EU | UK",UK - UNIVERSAL HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17357
+#EXTINF:-1 tvg-id="" tvg-name="UK - WATCH" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/WATCH-1.png" group-title="EU | UK",UK - WATCH
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69490
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK - TLC HD" tvg-logo="http://logo.panel.cx/logo/UK/TLC.png" group-title="EU | UK",UK - TLC HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17364
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK - COMEDY CENTRAL HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/COMEDYCENTRAL.png" group-title="EU | UK",UK - COMEDY CENTRAL HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17377
+#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-name="UK - COMEDY CENTRAL EXTRA" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/COMEDYCENTRAL.png" group-title="EU | UK",UK - COMEDY CENTRAL EXTRA
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17375
+#EXTINF:-1 tvg-id="sonymovies.uk" tvg-name="UK - SONY MOVIES" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SONYMOVIES.png" group-title="EU | UK",UK - SONY MOVIES
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69511
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK - SONY CHANNEL" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SONYMOVIES.png" group-title="EU | UK",UK - SONY CHANNEL
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17367
+#EXTINF:-1 tvg-id="sonychristmas.uk" tvg-name="UK - SONY CHRISTMAS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SONYMOVIES.png" group-title="EU | UK",UK - SONY CHRISTMAS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17366
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK - DMAX" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DMAX.png" group-title="EU | UK",UK - DMAX
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69503
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK - 4 SEVEN" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="EU | UK",UK - 4 SEVEN
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69494
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK - 5 SELECT" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/5SELECT.png" group-title="EU | UK",UK - 5 SELECT
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69495
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK - 5STAR" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/5STAR-1.png" group-title="EU | UK",UK - 5STAR
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17386
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK - 5 USA" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/5USA.png" group-title="EU | UK",UK - 5 USA
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69497
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK - BLAZE" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BLAZE.png" group-title="EU | UK",UK - BLAZE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17383
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK - CBS REALITY" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CBS.png" group-title="EU | UK",UK - CBS REALITY
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17379
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK - CHALLENGE" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHALLENGE.png" group-title="EU | UK",UK - CHALLENGE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69501
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK - DAVE" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DAVE.png" group-title="EU | UK",UK - DAVE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69502
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK - DRAMA" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DRAMA-1.png" group-title="EU | UK",UK - DRAMA
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69504
+#EXTINF:-1 tvg-id="pbsamerica.uk" tvg-name="UK - PBS AMERICA" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/PBSAMERICA.png" group-title="EU | UK",UK - PBS AMERICA
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69506
+#EXTINF:-1 tvg-id="picktv.uk" tvg-name="UK - PICK TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/PICKTV-1.png" group-title="EU | UK",UK - PICK TV
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69507
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="UK - QUEST RED" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/QUEST.png" group-title="EU | UK",UK - QUEST RED
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69508
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK - REALLY" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/REALLY.png" group-title="EU | UK",UK - REALLY
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69510
+#EXTINF:-1 tvg-id="" tvg-name="UK - UTV ULSTER" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UTV.png" group-title="EU | UK",UK - UTV ULSTER
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69516
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK - YESTERDAY" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/YESTERDAY-1.png" group-title="EU | UK",UK - YESTERDAY
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69518
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - CINEMA #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - CINEMA #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17353
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK - SKY CINEMA ACTION FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY CINEMA ACTION FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17340
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK - SKY CINEMA COMEDY FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY CINEMA COMEDY FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17350
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK - SKY CINEMA FAMILY" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY CINEMA FAMILY
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69519
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK - SKY CINEMA GREATS FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY CINEMA GREATS FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17346
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK - SKY CINEMA PREMIER FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY CINEMA PREMIER FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17344
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK - SKY CINEMA SKY FI" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY CINEMA SKY FI
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69520
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK - SKY CINEMA THRILLER FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY CINEMA THRILLER FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17341
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK - SKY CINEMA DRAMA & ROMANCE FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY CINEMA DRAMA & ROMANCE FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17348
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK - SKY CINEMA HITS FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY CINEMA HITS FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17345
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="UK - TCM HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/TCM-1.png" group-title="EU | UK",UK - TCM HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17363
+#EXTINF:-1 tvg-id="amc.uk" tvg-name="UK - AMC" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/AMC-1.png" group-title="EU | UK",UK - AMC
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17358
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK - FILM 4 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/FILM4-1.png" group-title="EU | UK",UK - FILM 4 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17354
+#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="UK - HORROR CHANNEL" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/HORRORCHANNEL-1.png" group-title="EU | UK",UK - HORROR CHANNEL
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17355
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - MUSIC #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - MUSIC #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70126
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK - MTV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="EU | UK",UK - MTV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17304
+#EXTINF:-1 tvg-id="mtvlive.uk" tvg-name="UK - MTV LIVE HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="EU | UK",UK - MTV LIVE HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17302
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="UK - CLUBLAND" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CLUBLAND-1.png" group-title="EU | UK",UK - CLUBLAND
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69525
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="UK - KERRANG" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/KERRANG-1.png" group-title="EU | UK",UK - KERRANG
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69526
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="UK - KISS TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/KISS-TV-1.png" group-title="EU | UK",UK - KISS TV
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69527
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="UK - MAGIC" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/MAGIC-1.png" group-title="EU | UK",UK - MAGIC
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69528
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK - MTV BASE" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="EU | UK",UK - MTV BASE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17307
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK - MTV CLASSIC" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="EU | UK",UK - MTV CLASSIC
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17306
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK - MTV HITS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="EU | UK",UK - MTV HITS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17303
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="UK - MTV MUSIC UK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="EU | UK",UK - MTV MUSIC UK
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17301
+#EXTINF:-1 tvg-id="" tvg-name="UK - MTV ONE" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="EU | UK",UK - MTV ONE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17300
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="UK - NOW 80s" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NOW-80s-1.png" group-title="EU | UK",UK - NOW 80s
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69530
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW MUSIC" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NOW-90s-1.png" group-title="EU | UK",UK - NOW MUSIC
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69531
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK - POP" tvg-logo="http://logo.panel.cx/logo/UK/POP1.png" group-title="EU | UK",UK - POP
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17298
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="UK - POP MAX" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/POPMAX-1.png" group-title="EU | UK",UK - POP MAX
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17297
+#EXTINF:-1 tvg-id="thebox.uk" tvg-name="UK - THE BOX" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/THE-BOX-1.png" group-title="EU | UK",UK - THE BOX
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69535
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - LOCAL #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - LOCAL #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69425
+#EXTINF:-1 tvg-id="bbconechannelislands.uk" tvg-name="UK - BBC ONE CHANNEL ISLANDS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE CHANNEL ISLANDS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69428
+#EXTINF:-1 tvg-id="bbceastmidlands.uk" tvg-name="UK - BBC ONE EAST MIDLANDS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE EAST MIDLANDS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69430
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC EARTH HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BBCEARTHHD.png" group-title="EU | UK",UK - BBC EARTH HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/273577
+#EXTINF:-1 tvg-id="bbconeeastw.uk" tvg-name="UK - BBC ONE EAST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE EAST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69429
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ONE LONDON" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE LONDON
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69431
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ONE NORTH EAST & CUMBRIA" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE NORTH EAST & CUMBRIA
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69432
+#EXTINF:-1 tvg-id="bbcnorthwest.uk" tvg-name="UK - BBC ONE NORTH WEST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE NORTH WEST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69433
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ONE NORTHEN ISLAND" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE NORTHEN ISLAND
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69435
+#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK - BBC ONE SCOTLAND" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE SCOTLAND
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69437
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ONE SOUTH" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE SOUTH
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69438
+#EXTINF:-1 tvg-id="bbcsoutheast.uk" tvg-name="UK - BBC One South East" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC One South East
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69439
+#EXTINF:-1 tvg-id="bbcsouthwest.uk" tvg-name="UK - BBC ONE SOUTH WEST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE SOUTH WEST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69440
+#EXTINF:-1 tvg-id="bbc1wales.uk" tvg-name="UK - BBC ONE WALES" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE WALES
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69441
+#EXTINF:-1 tvg-id="bbcwest.uk" tvg-name="UK - BBC ONE WEST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE WEST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69442
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ONE WEST MIDLANDS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE WEST MIDLANDS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69443
+#EXTINF:-1 tvg-id="bbcyorkshire.uk" tvg-name="UK - BBC ONE YORK" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE YORK
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69444
+#EXTINF:-1 tvg-id="bbcyourkshirelincolnshire.uk" tvg-name="UK - BBC ONE YORKSHIRE & LINCOLNSHIRE" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE YORKSHIRE & LINCOLNSHIRE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69445
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK - BBC TWO ENGLAND" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC TWO ENGLAND
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69446
+#EXTINF:-1 tvg-id="bbc2northernireland.uk" tvg-name="UK - BBC TWO NORTHEN IRELAND" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC TWO NORTHEN IRELAND
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69447
+#EXTINF:-1 tvg-id="bbc2wales.uk" tvg-name="UK - BBC TWO WALES" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC TWO WALES
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69449
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHANNEL 4 MIDLANDS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="EU | UK",UK - CHANNEL 4 MIDLANDS
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69450
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHANNEL 4 NORTH" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="EU | UK",UK - CHANNEL 4 NORTH
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69451
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHANNEL 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="EU | UK",UK - CHANNEL 4
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69452
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHANNEL 4 SCOTLAND" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="EU | UK",UK - CHANNEL 4 SCOTLAND
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69453
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHANNEL 4 SOUTH AND EAST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="EU | UK",UK - CHANNEL 4 SOUTH AND EAST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69454
+#EXTINF:-1 tvg-id="itvtynetees.uk" tvg-name="UK - ITV TYNE TEES" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV TYNE TEES
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69455
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV ANGLIA EAST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV ANGLIA EAST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69456
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV ANGLIA WEST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV ANGLIA WEST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69470
+#EXTINF:-1 tvg-id="itvcentral.uk" tvg-name="UK - ITV CENTRAL EAST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV CENTRAL EAST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69458
+#EXTINF:-1 tvg-id="itvcentral.uk" tvg-name="UK - ITV CENTRAL WEST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV CENTRAL WEST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69459
+#EXTINF:-1 tvg-id="itvgranada.uk" tvg-name="UK - ITV GRANADA" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV GRANADA
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69460
+#EXTINF:-1 tvg-id="itvmeridian.uk" tvg-name="UK - ITV MERIDIAN EAST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV MERIDIAN EAST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69462
+#EXTINF:-1 tvg-id="itvmeridian.uk" tvg-name="UK - ITV MERIDIAN TV NORTH" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV MERIDIAN TV NORTH
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69463
+#EXTINF:-1 tvg-id="itvmeridian.uk" tvg-name="UK - ITV MERIDIAN TV SOUTH" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV MERIDIAN TV SOUTH
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69465
+#EXTINF:-1 tvg-id="itvtynetees.uk" tvg-name="UK - ITV TYNE TEES TV NORTH" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV TYNE TEES TV NORTH
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69467
+#EXTINF:-1 tvg-id="itvwestcountry.uk" tvg-name="UK - ITV WESTCOUNTRY SOUTH WEST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV WESTCOUNTRY SOUTH WEST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69468
+#EXTINF:-1 tvg-id="itvwestcountry.uk" tvg-name="UK - ITV WESTCOUNTRY WEST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV WESTCOUNTRY WEST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69469
+#EXTINF:-1 tvg-id="itvyorkshire.uk" tvg-name="UK - ITV YORKSHIRE TV EAST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV YORKSHIRE TV EAST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69471
+#EXTINF:-1 tvg-id="itvyorkshire.uk" tvg-name="UK - ITV YORKSHIRE WEST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV YORKSHIRE WEST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69472
+#EXTINF:-1 tvg-id="itvborder.uk" tvg-name="UK - ITV BORDER" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV BORDER
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69473
+#EXTINF:-1 tvg-id="itvwales.uk" tvg-name="UK - ITV WALES" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - ITV WALES
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69474
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - SCOTLAND #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - SCOTLAND #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69475
+#EXTINF:-1 tvg-id="stv.uk" tvg-name="UK - STV" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/STV.png" group-title="EU | UK",UK - STV
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69476
+#EXTINF:-1 tvg-id="stv.uk" tvg-name="UK - STV CENTRAL WEST" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/STV.png" group-title="EU | UK",UK - STV CENTRAL WEST
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69477
+#EXTINF:-1 tvg-id="stvnorth.uk" tvg-name="UK - STV NORTH" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/STV.png" group-title="EU | UK",UK - STV NORTH
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69479
+#EXTINF:-1 tvg-id="" tvg-name="UK - BORDER SCOTLAND TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="EU | UK",UK - BORDER SCOTLAND TV
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/69480
+#EXTINF:-1 tvg-id="" tvg-name="##### IE - GENERAL #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### IE - GENERAL #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70089
+#EXTINF:-1 tvg-id="" tvg-name="UK - RTE NEWS HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RTENEWS-1.png" group-title="EU | UK",UK - RTE NEWS HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17392
+#EXTINF:-1 tvg-id="" tvg-name="UK - RTE ONE HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RTEONE-1.png" group-title="EU | UK",UK - RTE ONE HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17703
+#EXTINF:-1 tvg-id="" tvg-name="UK - RTE TWO HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RTETWO-1.png" group-title="EU | UK",UK - RTE TWO HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17702
+#EXTINF:-1 tvg-id="" tvg-name="UK - RTE JUNIOR" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RTEJUNIOR-1.png" group-title="EU | UK",UK - RTE JUNIOR
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17333
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK - S4C" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/S4C-1.png" group-title="EU | UK",UK - S4C
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70094
+#EXTINF:-1 tvg-id="" tvg-name="UK - TG4" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/TG4-1.png" group-title="EU | UK",UK - TG4
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70093
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIRGIN MEDIA ONE" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/VIRGINMEDIA-1.png" group-title="EU | UK",UK - VIRGIN MEDIA ONE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70090
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIRGIN MEDIA THREE" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/VIRGIN-MEDIA-THREE-1.png" group-title="EU | UK",UK - VIRGIN MEDIA THREE
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/70092
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - CULTURE #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - CULTURE #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17317
+#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-name="UK - DISNEY JUNIOR" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DISNEYJUNIOR.png" group-title="EU | UK",UK - DISNEY JUNIOR
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17324
+#EXTINF:-1 tvg-id="disneychannel.uk" tvg-name="UK - DISNEY CHANNEL" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DISNEYCHANNEL.png" group-title="EU | UK",UK - DISNEY CHANNEL
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17326
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK - SKY CINEMA SKI-FI FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK",UK - SKY CINEMA SKI-FI FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17343
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK - COMEDY CENTRAL" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/COMEDYCENTRAL.png" group-title="EU | UK",UK - COMEDY CENTRAL
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17376
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK - CBS REALITY 1 " tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CBS.png" group-title="EU | UK",UK - CBS REALITY 1 
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17378
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK - ALIBI" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ALIBIHD.png" group-title="EU | UK",UK - ALIBI
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17384
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK - BBC 4 HD / CBEEBIES HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC 4 HD / CBEEBIES HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17401
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK - BBC 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC 1 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17402
+#EXTINF:-1 tvg-id="bbc1wales.uk" tvg-name="UK - BBC ONE WALES HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC ONE WALES HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17403
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - BASIC #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - BASIC #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17405
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK - BBC 3 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC 3 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17705
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK - BBC 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="EU | UK",UK - BBC 2
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/27592
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - SPORTS #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK",##### UK - SPORTS #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17294
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - BT SPORTS #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK SPORTS",##### UK - BT SPORTS #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/325431
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK - BT SPORTS 1 HD" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT1.png" group-title="EU | UK SPORTS",UK - BT SPORTS 1 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17281
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK - BT SPORTS 2 HD" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png" group-title="EU | UK SPORTS",UK - BT SPORTS 2 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17280
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK - BT SPORTS 3 HD" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png" group-title="EU | UK SPORTS",UK - BT SPORTS 3 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17279
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK - BT SPORTS 4 FHD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png" group-title="EU | UK SPORTS",UK - BT SPORTS 4 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/311556
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK - BT SPORTS 4" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png" group-title="EU | UK SPORTS",UK - BT SPORTS 4
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/311555
+#EXTINF:-1 tvg-id="btsport5.uk" tvg-name="UK - BT SPORTS 5 FHD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_5.png" group-title="EU | UK SPORTS",UK - BT SPORTS 5 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/311558
+#EXTINF:-1 tvg-id="btsport5.uk" tvg-name="UK - BT SPORTS 5" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_5.png" group-title="EU | UK SPORTS",UK - BT SPORTS 5
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/311557
+#EXTINF:-1 tvg-id="btsport6.uk" tvg-name="UK - BT SPORTS 6" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_6.png" group-title="EU | UK SPORTS",UK - BT SPORTS 6
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/311559
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 7" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_7.png" group-title="EU | UK SPORTS",UK - BT SPORTS 7
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/311560
+#EXTINF:-1 tvg-id="btsport8.uk" tvg-name="UK - BT SPORTS 8" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_8.png" group-title="EU | UK SPORTS",UK - BT SPORTS 8
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/311561
+#EXTINF:-1 tvg-id="btsport9.uk" tvg-name="UK - BT SPORTS 9" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_9.png" group-title="EU | UK SPORTS",UK - BT SPORTS 9
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/311562
+#EXTINF:-1 tvg-id="btsport10.uk" tvg-name="UK - BT SPORTS 10" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_10.png" group-title="EU | UK SPORTS",UK - BT SPORTS 10
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/311563
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT Sport Box Office PPV (Live During Events Only)" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/sport%20box.png" group-title="EU | UK SPORTS",UK - BT Sport Box Office PPV (Live During Events Only)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/180048
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS EXTRA 1 FHD (Live)" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-1.png" group-title="EU | UK SPORTS",UK - BT SPORTS EXTRA 1 FHD (Live)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/163802
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS EXTRA2 FHD (Live)" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-2.png" group-title="EU | UK SPORTS",UK - BT SPORTS EXTRA2 FHD (Live)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/163803
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS EXTRA 3 FHD (Live)" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-3.png" group-title="EU | UK SPORTS",UK - BT SPORTS EXTRA 3 FHD (Live)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/163804
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS EXTRA 4 FHD(Live)" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-4.png" group-title="EU | UK SPORTS",UK - BT SPORTS EXTRA 4 FHD(Live)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/163805
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS EXTRA 5 FHD (Live)" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-5.png" group-title="EU | UK SPORTS",UK - BT SPORTS EXTRA 5 FHD (Live)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/163806
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS EXTRA 6 FHD (Live)" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-6.png" group-title="EU | UK SPORTS",UK - BT SPORTS EXTRA 6 FHD (Live)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/163807
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - SKY SPORTS #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK SPORTS",##### UK - SKY SPORTS #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/325432
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK - SKY SPORTS NEWS HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS NEWS HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17283
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK - SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS PREMIER LEAGUE FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17285
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS MAIN EVENT FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17286
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS FOOTBALL FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17288
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK - SKY SPORTS F1 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS F1 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17289
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK - SKY SPORTS RACING FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS RACING FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/304708
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK - SKY SPORTS CRICKET FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS CRICKET FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17290
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK - SKY SPORTS GOLF FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS GOLF FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17287
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK - SKY SPORTS ACTION HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS ACTION HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/230363
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK - SKY SPORTS ARENA FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS ARENA FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17291
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK - SKY SPORTS MIX FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="EU | UK SPORTS",UK - SKY SPORTS MIX FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17284
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - GAAGO #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/gaago.png" group-title="EU | UK SPORTS",##### UK - GAAGO #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/253435
+#EXTINF:-1 tvg-id="" tvg-name="UK - GAAGO 01 HD (EVENTS)" tvg-logo="http://logo.panel.cx/logo/USA/gaago.png" group-title="EU | UK SPORTS",UK - GAAGO 01 HD (EVENTS)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/253426
+#EXTINF:-1 tvg-id="" tvg-name="UK -  GAAGO 02 HD (EVENTS)" tvg-logo="http://logo.panel.cx/logo/USA/gaago.png" group-title="EU | UK SPORTS",UK -  GAAGO 02 HD (EVENTS)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/253427
+#EXTINF:-1 tvg-id="" tvg-name="UK - GAAGO 03 HD (EVENTS)" tvg-logo="http://logo.panel.cx/logo/USA/gaago.png" group-title="EU | UK SPORTS",UK - GAAGO 03 HD (EVENTS)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/253428
+#EXTINF:-1 tvg-id="" tvg-name="UK -  GAAGO 04 HD (EVENTS)" tvg-logo="http://logo.panel.cx/logo/USA/gaago.png" group-title="EU | UK SPORTS",UK -  GAAGO 04 HD (EVENTS)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/253429
+#EXTINF:-1 tvg-id="" tvg-name="UK -  GAAGO 05 HD (EVENTS)" tvg-logo="http://logo.panel.cx/logo/USA/gaago.png" group-title="EU | UK SPORTS",UK -  GAAGO 05 HD (EVENTS)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/253430
+#EXTINF:-1 tvg-id="" tvg-name="UK -  GAAGO 09 HD (EVENTS)" tvg-logo="http://logo.panel.cx/logo/USA/gaago.png" group-title="EU | UK SPORTS",UK -  GAAGO 09 HD (EVENTS)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/253434
+#EXTINF:-1 tvg-id="" tvg-name="UK -  GAAGO 06 HD (EVENTS)" tvg-logo="http://logo.panel.cx/logo/USA/gaago.png" group-title="EU | UK SPORTS",UK -  GAAGO 06 HD (EVENTS)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/253431
+#EXTINF:-1 tvg-id="" tvg-name="UK -  GAAGO 07 HD (EVENTS)" tvg-logo="http://logo.panel.cx/logo/USA/gaago.png" group-title="EU | UK SPORTS",UK -  GAAGO 07 HD (EVENTS)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/253432
+#EXTINF:-1 tvg-id="" tvg-name="UK -  GAAGO 08 HD (EVENTS)" tvg-logo="http://logo.panel.cx/logo/USA/gaago.png" group-title="EU | UK SPORTS",UK -  GAAGO 08 HD (EVENTS)
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/253433
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - HUB PREMIER LEAGUE #####" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",##### UK - HUB PREMIER LEAGUE #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324826
+#EXTINF:-1 tvg-id="Hub.Premier.1" tvg-name="UK - HUB PREMIER 1 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 1 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324806
+#EXTINF:-1 tvg-id="Hub.Premier.2" tvg-name="UK - HUB PREMIER 2 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 2 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324807
+#EXTINF:-1 tvg-id="Hub.Premier.3" tvg-name="UK - HUB PREMIER 3 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 3 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324808
+#EXTINF:-1 tvg-id="Hub.Premier.4" tvg-name="UK - HUB PREMIER 4 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 4 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324809
+#EXTINF:-1 tvg-id="Hub.Premier.5" tvg-name="UK - HUB PREMIER 5 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 5 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324810
+#EXTINF:-1 tvg-id="Hub.Premier.6" tvg-name="UK - HUB PREMIER 6 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 6 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324811
+#EXTINF:-1 tvg-id="Hub.Premier.7" tvg-name="UK - HUB PREMIER 7 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 7 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324812
+#EXTINF:-1 tvg-id="Hub.Premier.8" tvg-name="UK - HUB PREMIER 8 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 8 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324813
+#EXTINF:-1 tvg-id="Hub.Premier.9" tvg-name="UK - HUB PREMIER 9 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 9 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324814
+#EXTINF:-1 tvg-id="Hub.Premier.10" tvg-name="UK - HUB PREMIER 10 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 10 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324815
+#EXTINF:-1 tvg-id="Hub.Premier.11" tvg-name="UK - HUB PREMIER 11 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="EU | UK SPORTS",UK - HUB PREMIER 11 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/324816
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - SPORTS #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK SPORTS",##### UK - SPORTS #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/325434
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK - PREMIER SPORT HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/PREMIERSPORT-1.png" group-title="EU | UK SPORTS",UK - PREMIER SPORT HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17271
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK - PREMIER SPORTS 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/PREMIERSPORT-1.png" group-title="EU | UK SPORTS",UK - PREMIER SPORTS 2 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/266684
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK - EUROSPORTS 1 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EU | UK SPORTS",UK - EUROSPORTS 1 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17274
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK - EUROSPORTS 2 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EU | UK SPORTS",UK - EUROSPORTS 2 FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17273
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK - RACING UK HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RACINGUKHD-1.png" group-title="EU | UK SPORTS",UK - RACING UK HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17270
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK - FREE SPORTS FHD" tvg-logo="http://logo.panel.cx/logo/UK/FREESPORTS.png" group-title="EU | UK SPORTS",UK - FREE SPORTS FHD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/316240
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK - MUTV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/MUTV-1.png" group-title="EU | UK SPORTS",UK - MUTV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17278
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="UK - CHELSEA TV HD | LIVE EVENT" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHELSEATV-1.png" group-title="EU | UK SPORTS",UK - CHELSEA TV HD | LIVE EVENT
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/17277
+#EXTINF:-1 tvg-id="" tvg-name="UK - LFC TV" tvg-logo="http://logo.panel.cx/logo/UK/lfc.png" group-title="EU | UK SPORTS",UK - LFC TV
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/150244
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - VIAPLAY #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="EU | UK SPORTS",##### UK - VIAPLAY #####
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/325433
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 1 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 1 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280655
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 2 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 2 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280656
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 3 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 3 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280657
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 4 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 4 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280658
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 5 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 5 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280659
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 6 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 6 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280660
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 7 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 7 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280661
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 8 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 8 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280662
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 9 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 9 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280663
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 10 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 10 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280664
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 11 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 11 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280665
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 12 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 12 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280666
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 13 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 13 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280667
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 14 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 14 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280668
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 15 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 15 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280669
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 16 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 16 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280670
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 17 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 17 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280671
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 18 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 18 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280672
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 19 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 19 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280673
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 20 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 20 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280674
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 21 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 21 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280675
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 22 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 22 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280676
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 23 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 23 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280677
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 24 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 24 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280678
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 25 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 25 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280679
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 26 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 26 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280680
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 27 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 27 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280681
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 28 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 28 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280682
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 29 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 29 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280683
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 30 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 30 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280684
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 31 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 31 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280685
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 32 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 32 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280686
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 33 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 33 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280687
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 34 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 34 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280688
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 35 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 35 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280689
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 36 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 36 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280690
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIAPLAY 37 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="EU | UK SPORTS",UK - VIAPLAY 37 PPV HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/280691
+
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="US - SUPERSPORT FOOTBALL PLUS HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT FOOTBALL PLUS HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252100
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="US - SUPERSPORT PREMIER LEAGUE HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT PREMIER LEAGUE HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252098
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="US - SUPERSPORT LA LIGA HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT LA LIGA HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252099
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="US - SUPERSPORT FOOTBALL HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT FOOTBALL HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252097
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="US - SUPERSPORT VARIETY 1 HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT VARIETY 1 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252093
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="US - SUPERSPORT VARIETY 2 HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT VARIETY 2 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252094
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="US - SUPERSPORT VARIETY 3 HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT VARIETY 3 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252095
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="US - SUPERSPORT VARIETY 4 HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT VARIETY 4 HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252096
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="US - SUPERSPORT TENNIS HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT TENNIS HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252101
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="US - SUPERSPORT RUGBY HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT RUGBY HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252102
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="US -SUPERSPORT CRICKET HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US -SUPERSPORT CRICKET HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252103
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="US - SUPERSPORT GOLF HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT GOLF HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252104
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="US - SUPERSPORT MOTOSPORT HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT MOTOSPORT HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252105
+#EXTINF:-1 tvg-id="" tvg-name="US - SUPERSPORT EVENTS HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT EVENTS HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252106
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="US - SUPERSPORT BLITZ HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT BLITZ HD
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252107
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="US - SUPERSPORT MAXIMO 1" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT MAXIMO 1
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252108
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="US - SUPERSPORT GRANDSTAND" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT GRANDSTAND
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252110
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="US - SUPERSPORT PSL" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT PSL
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252111
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="US - SUPERSPORT ACTION " tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT ACTION 
+http://tvservice.pro:80/74A21DACC3F9/1148A73F023A548/252112
